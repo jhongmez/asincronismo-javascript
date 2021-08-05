@@ -1,0 +1,24 @@
+{
+  "name": "asincronismo-javascript",
+  "version": "1.0.0",
+  "description": "Trabajar con asincronismos en JavaScript",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhongmez/asincronismo-javascript.git"
+  },
+  "keywords": [
+    "callbacks",
+    "promise",
+    "async"
+  ],
+  "author": "Jhon Edwin Gomez Marin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jhongmez/asincronismo-javascript/issues"
+  },
+  "homepage": "https://github.com/jhongmez/asincronismo-javascript#readme"
+}
